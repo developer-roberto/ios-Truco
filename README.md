@@ -1,5 +1,3 @@
-![0](https://user-images.githubusercontent.com/29257910/26899073-5c14d356-4ba4-11e7-8c6d-e50c20ac95c1.png)
-
 # ios-Truco
 
 This is an iOS project made in Objective-C to mark Truco scores.
